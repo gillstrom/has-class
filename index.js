@@ -2,7 +2,7 @@
 var objType = require('obj-type');
 
 module.exports = function (el, str) {
-	if (objType(el).indexOf('element') < 0) {
+	if (objType(el).indexOf('element') === -1) {
 		throw new TypeError('Expected an HTML DOM element as first argument');
 	}
 

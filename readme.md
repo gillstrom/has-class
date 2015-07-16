@@ -23,7 +23,7 @@ hasClass(el, 'foo');
 ```
 
 
-## API
+## Browser API
 
 ### hasClass(element, className)
 
