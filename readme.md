@@ -30,7 +30,7 @@ hasClass(el, 'foo');
 #### element
 
 *Required*  
-Type: `HTML DOM element`
+Type: HTML DOM element
 
 Element to test with.
 

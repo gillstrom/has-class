@@ -19,11 +19,11 @@
     "browser",
     "check",
     "class",
+    "className",
     "class name",
     "DOM",
     "element",
     "has",
-    "jQuery",
     "test"
   ],
   "dependencies": {
