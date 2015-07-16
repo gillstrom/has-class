@@ -36,7 +36,7 @@ Element to test with.
 
 #### className
 
-*Required*
+*Required*  
 Type: `string`
 
 Class name to test against.
