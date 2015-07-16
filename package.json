@@ -1,0 +1,32 @@
+{
+  "name": "has-class",
+  "version": "0.0.0",
+  "description": "Check if an element has the given class.",
+  "license": "MIT",
+  "repository": "gillstrom/has-class",
+  "author": {
+    "email": "andreasgillstrom@gmail.com",
+    "name": "Andreas Gillström",
+    "url": "github.com/gillstrom"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "browser",
+    "check",
+    "class",
+    "class name",
+    "DOM",
+    "element",
+    "has",
+    "jQuery",
+    "test"
+  ],
+  "dependencies": {
+    "obj-type": "^1.0.0"
+  }
+}
