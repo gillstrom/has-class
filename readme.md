@@ -1,4 +1,4 @@
-# has-class [![Build Status](https://travis-ci.org/gillstrom/has-class.svg?branch=master)](https://travis-ci.org/gillstrom/has-class)
+# has-class
 
 > Check if an element has the given class.
 
