@@ -2,8 +2,6 @@
 
 > Check if an element has the given class.
 
-*Supported in IE8+*
-
 
 ## Install
 
