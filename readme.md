@@ -42,6 +42,11 @@ Type: `string`
 Class name to test against.
 
 
+## Related
+
+* [add-class](https://github.com/gillstrom/add-class) - Add a given class to elements.
+
+
 ## License
 
 MIT © [Andreas Gillström](http://github.com/gillstrom)
