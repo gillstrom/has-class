@@ -12,7 +12,7 @@ module.exports = function (el, str) {
 
 	if (el.classList) {
 		return el.classList.contains(str);
-	} else {
-		return new RegExp('(^| )' + str + '( |$)', 'gi').test(el.className);
 	}
+
+	return new RegExp('(^| )' + str + '( |$)', 'gi').test(el.className);
 };
